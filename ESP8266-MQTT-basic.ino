@@ -29,8 +29,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "EPOL_kd@012";
-const char* password = "epolepol";
+const char* ssid = "";
+const char* password = "";
 const char* mqtt_server = "iot.eclipse.org";
 const char* deviceName = "ESP8266Client_1";
 
